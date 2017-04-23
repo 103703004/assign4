@@ -15,10 +15,18 @@
 
 nav{
     font-size: 1.7rem;
+    width: 420px;
+}
+
+ul{
+    list-style: none;
+    text-align: right;
+    padding: 0px;
 }
 
 li{
     padding: 10px;
+    display: inline-block;
 }
 
 #discuss{
